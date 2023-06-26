@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Kuliah\\TA\\App\\spjeniscat\\spjeniscat.csproj": {}
+    "D:\\Kuliah\\TA\\App\\SPJenisCat\\spjeniscat.csproj": {}
   },
   "projects": {
-    "D:\\Kuliah\\TA\\App\\spjeniscat\\spjeniscat.csproj": {
+    "D:\\Kuliah\\TA\\App\\SPJenisCat\\spjeniscat.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Kuliah\\TA\\App\\spjeniscat\\spjeniscat.csproj",
+        "projectUniqueName": "D:\\Kuliah\\TA\\App\\SPJenisCat\\spjeniscat.csproj",
         "projectName": "spjeniscat",
-        "projectPath": "D:\\Kuliah\\TA\\App\\spjeniscat\\spjeniscat.csproj",
+        "projectPath": "D:\\Kuliah\\TA\\App\\SPJenisCat\\spjeniscat.csproj",
         "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-        "outputPath": "D:\\Kuliah\\TA\\App\\spjeniscat\\obj\\",
+        "outputPath": "D:\\Kuliah\\TA\\App\\SPJenisCat\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config"

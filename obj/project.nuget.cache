@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+M5Ufc95WefGVCrYlFN+Fr0R2i271jmRw0PYIFUNVqNyKhVYKGO0ck+RvzMEEq5FlvYL/iYCb1sbypQTgYgESg==",
+  "dgSpecHash": "KA803QybxUdPacNCiIDmaQ42gYZyLK4xBK6zJ1fdIDvybOTGpGop6v6Out6rJsYEG83XXIbunRTvb+u1qLNY9A==",
   "success": true,
-  "projectFilePath": "D:\\Kuliah\\TA\\App\\spjeniscat\\spjeniscat.csproj",
+  "projectFilePath": "D:\\Kuliah\\TA\\App\\SPJenisCat\\spjeniscat.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\LENOVO\\.nuget\\packages\\blazorise\\1.2.2\\blazorise.1.2.2.nupkg.sha512",
     "C:\\Users\\LENOVO\\.nuget\\packages\\blazorise.bootstrap\\1.2.2\\blazorise.bootstrap.1.2.2.nupkg.sha512",

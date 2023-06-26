@@ -10,5 +10,6 @@ namespace spjeniscat.Models
         public int Id { get; set; }
         public String KodeKondisi { get; set; }
         public String Kondisi { get; set; }
+        
     }
 }

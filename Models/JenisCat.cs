@@ -10,5 +10,7 @@ namespace spjeniscat.Models
         public int Id { get; set; }
         public String KodeJenis { get; set; }
         public String Nama { get; set; }
+
+        ICollection<BasisPengetahuan> Pengetahuan { get; set; } =  new List<BasisPengetahuan>();
     }
 }

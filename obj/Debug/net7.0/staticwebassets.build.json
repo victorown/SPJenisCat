@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "GGGrWcAcPHMAMRZ9qDTNxypp0eij7gJfa3s3kXlnydg=",
+  "Hash": "GpA8+OE4gTLuEhwWRkQMc10Y82GSJVO3lfpsyXDMTvo=",
   "Source": "spjeniscat",
   "BasePath": "_content/spjeniscat",
   "Mode": "Default",
@@ -10,7 +10,7 @@
     {
       "Name": "spjeniscat\\wwwroot",
       "Source": "spjeniscat",
-      "ContentRoot": "D:\\Kuliah\\TA\\App\\spjeniscat\\wwwroot\\",
+      "ContentRoot": "D:\\Kuliah\\TA\\App\\SPJenisCat\\wwwroot\\",
       "BasePath": "_content/spjeniscat",
       "Pattern": "**"
     }
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "C:\\Users\\LENOVO\\.nuget\\packages\\blazorise\\1.2.2\\staticwebassets\\vendors\\sha512.js"
     },
     {
-      "Identity": "D:\\Kuliah\\TA\\App\\spjeniscat\\obj\\Debug\\net7.0\\scopedcss\\bundle\\spjeniscat.styles.css",
+      "Identity": "D:\\Kuliah\\TA\\App\\SPJenisCat\\obj\\Debug\\net7.0\\scopedcss\\bundle\\spjeniscat.styles.css",
       "SourceId": "spjeniscat",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\Kuliah\\TA\\App\\spjeniscat\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
+      "ContentRoot": "D:\\Kuliah\\TA\\App\\SPJenisCat\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
       "BasePath": "_content/spjeniscat",
       "RelativePath": "spjeniscat.styles.css",
       "AssetKind": "All",
@@ -677,13 +677,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\Kuliah\\TA\\App\\spjeniscat\\obj\\Debug\\net7.0\\scopedcss\\bundle\\spjeniscat.styles.css"
+      "OriginalItemSpec": "D:\\Kuliah\\TA\\App\\SPJenisCat\\obj\\Debug\\net7.0\\scopedcss\\bundle\\spjeniscat.styles.css"
     },
     {
-      "Identity": "D:\\Kuliah\\TA\\App\\spjeniscat\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\spjeniscat.bundle.scp.css",
+      "Identity": "D:\\Kuliah\\TA\\App\\SPJenisCat\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\spjeniscat.bundle.scp.css",
       "SourceId": "spjeniscat",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\Kuliah\\TA\\App\\spjeniscat\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "D:\\Kuliah\\TA\\App\\SPJenisCat\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/spjeniscat",
       "RelativePath": "spjeniscat.bundle.scp.css",
       "AssetKind": "All",
@@ -694,13 +694,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\Kuliah\\TA\\App\\spjeniscat\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\spjeniscat.bundle.scp.css"
+      "OriginalItemSpec": "D:\\Kuliah\\TA\\App\\SPJenisCat\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\spjeniscat.bundle.scp.css"
     },
     {
-      "Identity": "D:\\Kuliah\\TA\\App\\spjeniscat\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Identity": "D:\\Kuliah\\TA\\App\\SPJenisCat\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "SourceId": "spjeniscat",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Kuliah\\TA\\App\\spjeniscat\\wwwroot\\",
+      "ContentRoot": "D:\\Kuliah\\TA\\App\\SPJenisCat\\wwwroot\\",
       "BasePath": "_content/spjeniscat",
       "RelativePath": "css/bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -714,10 +714,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "D:\\Kuliah\\TA\\App\\spjeniscat\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "D:\\Kuliah\\TA\\App\\SPJenisCat\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "spjeniscat",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Kuliah\\TA\\App\\spjeniscat\\wwwroot\\",
+      "ContentRoot": "D:\\Kuliah\\TA\\App\\SPJenisCat\\wwwroot\\",
       "BasePath": "_content/spjeniscat",
       "RelativePath": "css/bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -731,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "D:\\Kuliah\\TA\\App\\spjeniscat\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "Identity": "D:\\Kuliah\\TA\\App\\SPJenisCat\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
       "SourceId": "spjeniscat",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Kuliah\\TA\\App\\spjeniscat\\wwwroot\\",
+      "ContentRoot": "D:\\Kuliah\\TA\\App\\SPJenisCat\\wwwroot\\",
       "BasePath": "_content/spjeniscat",
       "RelativePath": "css/open-iconic/FONT-LICENSE",
       "AssetKind": "All",
@@ -748,10 +748,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\FONT-LICENSE"
     },
     {
-      "Identity": "D:\\Kuliah\\TA\\App\\spjeniscat\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "Identity": "D:\\Kuliah\\TA\\App\\SPJenisCat\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
       "SourceId": "spjeniscat",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Kuliah\\TA\\App\\spjeniscat\\wwwroot\\",
+      "ContentRoot": "D:\\Kuliah\\TA\\App\\SPJenisCat\\wwwroot\\",
       "BasePath": "_content/spjeniscat",
       "RelativePath": "css/open-iconic/font/css/open-iconic-bootstrap.min.css",
       "AssetKind": "All",
@@ -765,10 +765,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
     },
     {
-      "Identity": "D:\\Kuliah\\TA\\App\\spjeniscat\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "Identity": "D:\\Kuliah\\TA\\App\\SPJenisCat\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
       "SourceId": "spjeniscat",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Kuliah\\TA\\App\\spjeniscat\\wwwroot\\",
+      "ContentRoot": "D:\\Kuliah\\TA\\App\\SPJenisCat\\wwwroot\\",
       "BasePath": "_content/spjeniscat",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.eot",
       "AssetKind": "All",
@@ -782,10 +782,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
     },
     {
-      "Identity": "D:\\Kuliah\\TA\\App\\spjeniscat\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "Identity": "D:\\Kuliah\\TA\\App\\SPJenisCat\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
       "SourceId": "spjeniscat",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Kuliah\\TA\\App\\spjeniscat\\wwwroot\\",
+      "ContentRoot": "D:\\Kuliah\\TA\\App\\SPJenisCat\\wwwroot\\",
       "BasePath": "_content/spjeniscat",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.otf",
       "AssetKind": "All",
@@ -799,10 +799,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
     },
     {
-      "Identity": "D:\\Kuliah\\TA\\App\\spjeniscat\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "Identity": "D:\\Kuliah\\TA\\App\\SPJenisCat\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
       "SourceId": "spjeniscat",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Kuliah\\TA\\App\\spjeniscat\\wwwroot\\",
+      "ContentRoot": "D:\\Kuliah\\TA\\App\\SPJenisCat\\wwwroot\\",
       "BasePath": "_content/spjeniscat",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.svg",
       "AssetKind": "All",
@@ -816,10 +816,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
     },
     {
-      "Identity": "D:\\Kuliah\\TA\\App\\spjeniscat\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "Identity": "D:\\Kuliah\\TA\\App\\SPJenisCat\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
       "SourceId": "spjeniscat",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Kuliah\\TA\\App\\spjeniscat\\wwwroot\\",
+      "ContentRoot": "D:\\Kuliah\\TA\\App\\SPJenisCat\\wwwroot\\",
       "BasePath": "_content/spjeniscat",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.ttf",
       "AssetKind": "All",
@@ -833,10 +833,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
     },
     {
-      "Identity": "D:\\Kuliah\\TA\\App\\spjeniscat\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "Identity": "D:\\Kuliah\\TA\\App\\SPJenisCat\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
       "SourceId": "spjeniscat",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Kuliah\\TA\\App\\spjeniscat\\wwwroot\\",
+      "ContentRoot": "D:\\Kuliah\\TA\\App\\SPJenisCat\\wwwroot\\",
       "BasePath": "_content/spjeniscat",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.woff",
       "AssetKind": "All",
@@ -850,10 +850,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
     },
     {
-      "Identity": "D:\\Kuliah\\TA\\App\\spjeniscat\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "Identity": "D:\\Kuliah\\TA\\App\\SPJenisCat\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
       "SourceId": "spjeniscat",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Kuliah\\TA\\App\\spjeniscat\\wwwroot\\",
+      "ContentRoot": "D:\\Kuliah\\TA\\App\\SPJenisCat\\wwwroot\\",
       "BasePath": "_content/spjeniscat",
       "RelativePath": "css/open-iconic/ICON-LICENSE",
       "AssetKind": "All",
@@ -867,10 +867,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\ICON-LICENSE"
     },
     {
-      "Identity": "D:\\Kuliah\\TA\\App\\spjeniscat\\wwwroot\\css\\open-iconic\\README.md",
+      "Identity": "D:\\Kuliah\\TA\\App\\SPJenisCat\\wwwroot\\css\\open-iconic\\README.md",
       "SourceId": "spjeniscat",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Kuliah\\TA\\App\\spjeniscat\\wwwroot\\",
+      "ContentRoot": "D:\\Kuliah\\TA\\App\\SPJenisCat\\wwwroot\\",
       "BasePath": "_content/spjeniscat",
       "RelativePath": "css/open-iconic/README.md",
       "AssetKind": "All",
@@ -884,10 +884,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\README.md"
     },
     {
-      "Identity": "D:\\Kuliah\\TA\\App\\spjeniscat\\wwwroot\\css\\site.css",
+      "Identity": "D:\\Kuliah\\TA\\App\\SPJenisCat\\wwwroot\\css\\site.css",
       "SourceId": "spjeniscat",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Kuliah\\TA\\App\\spjeniscat\\wwwroot\\",
+      "ContentRoot": "D:\\Kuliah\\TA\\App\\SPJenisCat\\wwwroot\\",
       "BasePath": "_content/spjeniscat",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -901,10 +901,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "D:\\Kuliah\\TA\\App\\spjeniscat\\wwwroot\\favicon.png",
+      "Identity": "D:\\Kuliah\\TA\\App\\SPJenisCat\\wwwroot\\favicon.png",
       "SourceId": "spjeniscat",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Kuliah\\TA\\App\\spjeniscat\\wwwroot\\",
+      "ContentRoot": "D:\\Kuliah\\TA\\App\\SPJenisCat\\wwwroot\\",
       "BasePath": "_content/spjeniscat",
       "RelativePath": "favicon.png",
       "AssetKind": "All",
