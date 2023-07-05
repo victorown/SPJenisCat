@@ -52,3 +52,7 @@ D:\Kuliah\TA\App\spjeniscat\bin\Debug\net7.0\Microsoft.AspNetCore.Components.Web
 D:\Kuliah\TA\App\spjeniscat\bin\Debug\net7.0\Microsoft.AspNetCore.Metadata.dll
 D:\Kuliah\TA\App\spjeniscat\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
 D:\Kuliah\TA\App\spjeniscat\bin\Debug\net7.0\Microsoft.JSInterop.dll
+D:\Kuliah\TA\App\SPJenisCat\bin\Debug\net7.0\Microsoft.Extensions.Localization.dll
+D:\Kuliah\TA\App\SPJenisCat\bin\Debug\net7.0\Microsoft.Extensions.Localization.Abstractions.dll
+D:\Kuliah\TA\App\SPJenisCat\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Kuliah\TA\App\SPJenisCat\bin\Debug\net7.0\MudBlazor.dll

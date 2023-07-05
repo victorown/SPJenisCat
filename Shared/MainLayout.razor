@@ -2,8 +2,11 @@
 
 <PageTitle>spjeniscat</PageTitle>
 
-<div class="page">
-    <div class="sidebar">
+<MudThemeProvider />
+<MudDialogProvider />
+<MudSnackbarProvider />
+
+@* <div class="page">    <div class="sidebar">
         <NavMenu />
     </div>
 
@@ -15,5 +18,45 @@
         <article class="content px-4">
             @Body
         </article>
-    </main>
-</div>
+    </main> </div> *@
+
+<MudLayout>
+  <MudAppBar Style="background-color: rgb(6, 86, 115);">
+    <MudIconButton
+      Icon="@Icons.Material.Filled.Menu"
+      Color="Color.Info"
+      Edge="Edge.Start"
+      OnClick="@((e) => DrawerToggle())"
+    />
+    SP Jenis Cat
+  </MudAppBar>
+  <MudDrawer @bind-Open="@_drawerOpen">
+    <NavMenu />
+  </MudDrawer>
+  <MudMainContent> @Body </MudMainContent>
+</MudLayout>
+
+@code {
+    bool _drawerOpen = true;
+
+    void DrawerToggle()
+    {
+        _drawerOpen = !_drawerOpen;
+    }
+}
+
+@* @code {
+    protected override async Task OnInitializedAsync()
+    {
+
+        var authState = await AuthenticationStateProvider.GetAuthenticationStateAsync();
+        var user = authState.User;
+
+        if (!user.Identity.IsAuthenticated)
+        {
+            navManager.NavigateTo("Identity/account/login", true);
+            return;
+        }
+    }
+
+} *@

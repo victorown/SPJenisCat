@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "GpA8+OE4gTLuEhwWRkQMc10Y82GSJVO3lfpsyXDMTvo=",
+  "Hash": "2Wup7dXQK1TySmYc+BAyPCRPM074QWeXatIEERNGu/Q=",
   "Source": "spjeniscat",
   "BasePath": "_content/spjeniscat",
   "Mode": "Default",
@@ -661,6 +661,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\LENOVO\\.nuget\\packages\\blazorise\\1.2.2\\staticwebassets\\vendors\\sha512.js"
+    },
+    {
+      "Identity": "C:\\Users\\LENOVO\\.nuget\\packages\\mudblazor\\6.5.0\\staticwebassets\\MudBlazor.min.css",
+      "SourceId": "MudBlazor",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\LENOVO\\.nuget\\packages\\mudblazor\\6.5.0\\staticwebassets\\",
+      "BasePath": "_content/MudBlazor",
+      "RelativePath": "MudBlazor.min.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\LENOVO\\.nuget\\packages\\mudblazor\\6.5.0\\staticwebassets\\MudBlazor.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\LENOVO\\.nuget\\packages\\mudblazor\\6.5.0\\staticwebassets\\MudBlazor.min.js",
+      "SourceId": "MudBlazor",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\LENOVO\\.nuget\\packages\\mudblazor\\6.5.0\\staticwebassets\\",
+      "BasePath": "_content/MudBlazor",
+      "RelativePath": "MudBlazor.min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\LENOVO\\.nuget\\packages\\mudblazor\\6.5.0\\staticwebassets\\MudBlazor.min.js"
     },
     {
       "Identity": "D:\\Kuliah\\TA\\App\\SPJenisCat\\obj\\Debug\\net7.0\\scopedcss\\bundle\\spjeniscat.styles.css",

@@ -1,30 +1,24 @@
-﻿<div class="top-row ps-3 navbar navbar-dark">
+﻿<div class="top-row ps-3 navbar navbar-dark" style="background-color:rgb(5, 67, 89); height: 64px;">
     <div class="container-fluid">
-        <a class="navbar-brand" href="">spjeniscat</a>
+        <a class="navbar-brand" href="">SP Jenis Cat</a>
         <button title="Navigation menu" class="navbar-toggler" @onclick="ToggleNavMenu">
             <span class="navbar-toggler-icon"></span>
         </button>
     </div>
 </div>
 
-<div class="@NavMenuCssClass nav-scrollable" @onclick="ToggleNavMenu">
-    <nav class="flex-column">
-        <div class="nav-item px-3">
-            <NavLink class="nav-link" href="" Match="NavLinkMatch.All">
-                <span class="oi oi-home" aria-hidden="true"></span> Home
-            </NavLink>
-        </div>
-        <div class="nav-item px-3">
-            <NavLink class="nav-link" href="counter">
-                <span class="oi oi-plus" aria-hidden="true"></span> Counter
-            </NavLink>
-        </div>
-        <div class="nav-item px-3">
-            <NavLink class="nav-link" href="fetchdata">
-                <span class="oi oi-list-rich" aria-hidden="true"></span> Fetch data
-            </NavLink>
-        </div>
-    </nav>
+<div class="@NavMenuCssClass" @onclick="ToggleNavMenu">
+    <MudPaper Width="250px" Class="d-inline-flex py-3" Style="background-color:transparent" Elevation="0">
+        <MudNavMenu Class="mud-width-full">
+            <MudText Typo="Typo.h6" Class="px-4">Admin</MudText>
+            <MudDivider Class="my-2" />
+            <MudNavLink Href="/home" IconColor="Color.Info" Icon="@Icons.Material.Filled.Dashboard">Home</MudNavLink>
+            <MudNavLink Href="/kond_rumah" IconColor="Color.Info" Icon="@Icons.Material.Filled.House">Kondisi Rumah</MudNavLink>
+            <MudNavLink Href="/solusi" IconColor="Color.Info" Icon="@Icons.Material.Filled.Receipt">Solusi</MudNavLink>
+            @* <MudNavLink Href="/pasien" IconColor="Color.Info" Icon="@Icons.Filled.Receipt">Pasien</MudNavLink> *@
+
+        </MudNavMenu>
+    </MudPaper>
 </div>
 
 @code {

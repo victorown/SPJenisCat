@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Kuliah\\TA\\App\\SPJenisCat\\spjeniscat.csproj": {}
+    "d:\\Kuliah\\TA\\App\\SPJenisCat\\spjeniscat.csproj": {}
   },
   "projects": {
-    "D:\\Kuliah\\TA\\App\\SPJenisCat\\spjeniscat.csproj": {
+    "d:\\Kuliah\\TA\\App\\SPJenisCat\\spjeniscat.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Kuliah\\TA\\App\\SPJenisCat\\spjeniscat.csproj",
+        "projectUniqueName": "d:\\Kuliah\\TA\\App\\SPJenisCat\\spjeniscat.csproj",
         "projectName": "spjeniscat",
-        "projectPath": "D:\\Kuliah\\TA\\App\\SPJenisCat\\spjeniscat.csproj",
+        "projectPath": "d:\\Kuliah\\TA\\App\\SPJenisCat\\spjeniscat.csproj",
         "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-        "outputPath": "D:\\Kuliah\\TA\\App\\SPJenisCat\\obj\\",
+        "outputPath": "d:\\Kuliah\\TA\\App\\SPJenisCat\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -55,6 +55,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[7.0.5, )"
+            },
+            "MudBlazor": {
+              "target": "Package",
+              "version": "[6.5.0, )"
             },
             "Pomelo.EntityFrameworkCore.MySql": {
               "target": "Package",
