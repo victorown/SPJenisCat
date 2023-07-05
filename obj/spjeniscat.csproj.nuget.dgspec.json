@@ -1,25 +1,28 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Kuliah\\TA\\App\\SPJenisCat\\spjeniscat.csproj": {}
+    "C:\\Users\\kodin\\OneDrive\\Documents\\Victor\\TA\\Apk\\SPJenisCat\\spjeniscat.csproj": {}
   },
   "projects": {
-    "d:\\Kuliah\\TA\\App\\SPJenisCat\\spjeniscat.csproj": {
+    "C:\\Users\\kodin\\OneDrive\\Documents\\Victor\\TA\\Apk\\SPJenisCat\\spjeniscat.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Kuliah\\TA\\App\\SPJenisCat\\spjeniscat.csproj",
+        "projectUniqueName": "C:\\Users\\kodin\\OneDrive\\Documents\\Victor\\TA\\Apk\\SPJenisCat\\spjeniscat.csproj",
         "projectName": "spjeniscat",
-        "projectPath": "d:\\Kuliah\\TA\\App\\SPJenisCat\\spjeniscat.csproj",
-        "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-        "outputPath": "d:\\Kuliah\\TA\\App\\SPJenisCat\\obj\\",
+        "projectPath": "C:\\Users\\kodin\\OneDrive\\Documents\\Victor\\TA\\Apk\\SPJenisCat\\spjeniscat.csproj",
+        "packagesPath": "C:\\Users\\kodin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kodin\\OneDrive\\Documents\\Victor\\TA\\Apk\\SPJenisCat\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\kodin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\sdk\\7.0.304\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -84,7 +87,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
         }
       }
     }
